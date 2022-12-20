@@ -5,7 +5,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsua99)](https://github.com/KimSua99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksa3067)](https://solved.ac/ksa3067)<br/>
 
