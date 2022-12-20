@@ -4,8 +4,7 @@
 ![SooAh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSua99&show_icons=true&theme=radical)
 </br>
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSua99&layout=compact&theme=tokyonight)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksa3067)](https://solved.ac/ksa3067)<br/>
 
