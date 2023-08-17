@@ -6,4 +6,4 @@
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSua99&layout=compact&theme=tokyonight)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tndk3067)](https://solved.ac/tndk3067)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tndk0226)](https://solved.ac/tndk0226)<br/>
